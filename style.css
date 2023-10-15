@@ -1,0 +1,16 @@
+#special {
+    width: 46px;
+    height: 27px;
+    flex-shrink: 0;
+    border-radius: 13.5px;
+    background: #FF4E4E;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 0.833px;
+    transform: translate(130px, -25px);
+}
